@@ -1,0 +1,118 @@
+{
+  "company": {
+    "name": "Plus Health Care",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Accessories",
+      "href": "features"
+    },
+
+    {
+      "name": "Location",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Welcome to",
+    "subtitle": "Plus Heath care.",
+    "description": "We are always interested in engaging with you.Let us know how we can help",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Whatsapp",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "Product List",
+    "items": [
+      {
+        "title": "EverFlo",
+        "description": "Until now, oxygen concentrators have been very similar - heavy, bulky, noisy, or requiring frequent maintenance. EverFlo from Respironics is a unique stationary concentrator that delivers what homecare providers want and patients deserve.",
+        "img": "/assets/images/EverFlo.png"
+      },
+      {
+        "title": "SimplyGo",
+        "description": "SimplyGo offers continuous flow and pulse-dose delivery in a device weighing 10 pounds. Reliably manage the therapy and lifestyle needs of your patients with just one POC. Simplify patient management - and your business - with SimplyGo.",
+        "img": "/assets/images/SimplyGo.png"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "Accessories",
+    "description": "",
+    "items": [
+      {
+        "name": "Mask",
+        "description": "Designed for comfortable fitting with soft material, Mouth piece fits perfectly with ultra soft edges",
+        "icon": "/assets/images/mask.jpeg"
+      },
+      {
+        "name": "Philips Dreamstation Auto CPAP",
+        "description": "With sincerity and hard work of our professionals, we have carved a niche for ourselves in this domain by providing a premium quality gamut of Philips Dreamstation Auto CPAP.",
+        "icon": "/assets/images/cpap.png"
+      },
+      {
+        "name": "DreamStation Auto BiPAP",
+        "description": "The DreamStation Auto BiPAP Machine with Bi-Flex is enhanced with all the latest features for optimal performance designed with everything you need in a Bi-level machine.",
+        "icon": "/assets/images/cpap.png"
+      },
+      {
+        "name": "DreamStation Auto BiPAP",
+        "description": "The DreamStation Auto BiPAP Machine with Bi-Flex is enhanced with all the latest features for optimal performance designed with everything you need in a Bi-level machine.+",
+        "icon": "/assets/images/cpap.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Location"
+    
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
